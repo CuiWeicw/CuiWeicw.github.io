@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Bing Li"
 title_separator          : "-"
 name                     : &name "Dr. Bing Li"
-description              : &description "Postdoc at The University of New South Wales"
+description              : &description "Scienist II at IHPC, A*Star, Singapore"
 url                      : https://windofshadow.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "windofshadow.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Bing Li"
   avatar           : "photo-middle.jpg"
-  bio              : "Research Associate at CSE, University of New South Wales"
-  location         : "Sydney, Australia"
+  bio              : "Scienist II at IHPC, A*Star"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fLbZnrgAAAAJ&hl=en"
