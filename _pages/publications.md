@@ -4,11 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-Awards
+# Awards
 
 <b>2019 ACM SIGMOD China Doctoral Dissertation Award</b> (Only two awardees China-wide)
 
-Publications
+# Publications
 
 1. <b>[Improving the Efficiency and Effectiveness for BERT-based Entity Resolution][<a href="https://github.com/windofshadow/windofshadow.github.io/blob/master/_pages/pdf/BERTer.pdf" target="_blank">PDF</a>]</b> <br> 
 <b>Bing Li</b>, Yukai Miao, Yaoshu Wang, Yifang Sun, Wei Wang, <br>
