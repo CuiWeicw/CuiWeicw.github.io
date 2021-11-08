@@ -8,7 +8,7 @@ author_profile: true
 * <b>2019 ACM SIGMOD China Doctoral Dissertation Award</b> (Only two awardees China-wide)
 
 ## Tutorial
-<b>[Recent Advances in Entity Resolution][<a href="https://youtu.be/2V8_JHr79K4" target="_blank">Video</a>]</b> <br> 
++ <b>[Recent Advances in Entity Resolution][<a href="https://youtu.be/2V8_JHr79K4" target="_blank">Video</a>]</b> <br> 
 <b>Bing Li</b>, Yaoshu Wang, Wei Wang, <br>
 <i> 40th International Conference on Conceptual Modeling</i>, (2021).
 
