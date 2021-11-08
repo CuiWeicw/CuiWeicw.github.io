@@ -4,11 +4,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Awards
+## Awards
+* <b>2019 ACM SIGMOD China Doctoral Dissertation Award</b> (Only two awardees China-wide)
 
-<b>2019 ACM SIGMOD China Doctoral Dissertation Award</b> (Only two awardees China-wide)
+## Tutorial
+<b>[Recent Advances in Entity Resolution][<a href="https://youtu.be/2V8_JHr79K4" target="_blank">Video</a>]</b> <br> 
+<b>Bing Li</b>, Yaoshu Wang, Wei Wang, <br>
+<i> 40th International Conference on Conceptual Modeling</i>, (2021).
 
-# Publications
+## Publications
 
 1. <b>[Improving the Efficiency and Effectiveness for BERT-based Entity Resolution][<a href="https://github.com/windofshadow/windofshadow.github.io/blob/master/_pages/pdf/BERTer.pdf" target="_blank">PDF</a>]</b> <br> 
 <b>Bing Li</b>, Yukai Miao, Yaoshu Wang, Yifang Sun, Wei Wang, <br>
