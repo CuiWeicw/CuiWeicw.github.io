@@ -14,6 +14,10 @@ author_profile: true
 
 ## Publications
 
+1. <b>[Privacy-Preserving Cross-Environment Human Activity Recognition][<a href="https://pubmed.ncbi.nlm.nih.gov/34818206/" target="_blank">PDF</a>]</b> <br> 
+Le Zhang, Wei Cui, <b>Bing Li*</b>, Zhenghua Chen, Min Wu, Teo Sin Gee <br>
+<i>IEEE Trans Cybern.</i>, (2021).
+
 1. <b>[Improving the Efficiency and Effectiveness for BERT-based Entity Resolution][<a href="https://github.com/windofshadow/windofshadow.github.io/blob/master/_pages/pdf/BERTer.pdf" target="_blank">PDF</a>]</b> <br> 
 <b>Bing Li</b>, Yukai Miao, Yaoshu Wang, Yifang Sun, Wei Wang, <br>
 <i>AAAI</i>, (2021).
