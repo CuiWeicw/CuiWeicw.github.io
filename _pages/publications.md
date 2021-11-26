@@ -18,6 +18,10 @@ author_profile: true
 Le Zhang, Wei Cui, <b>Bing Li*</b>, Zhenghua Chen, Min Wu, Teo Sin Gee <br>
 <i>IEEE Transactions on Cybernetics</i>, (2021).
 
+1. <b>[Sent2Span: Span Detection for PICO Extraction in the Biomedical Text without Span Annotations][<a href="https://arxiv.org/pdf/2109.02254.pdf" target="_blank">PDF</a>]</b> <br> 
+Shifeng Liu, Yifang Sun, <b>Bing Li</b>, Wei Wang, Florence T Bourgeois, Adam G Dunn <br>
+<i>EMNLP</i>, (2021).
+
 1. <b>[Improving the Efficiency and Effectiveness for BERT-based Entity Resolution][<a href="https://github.com/windofshadow/windofshadow.github.io/blob/master/_pages/pdf/BERTer.pdf" target="_blank">PDF</a>]</b> <br> 
 <b>Bing Li</b>, Yukai Miao, Yaoshu Wang, Yifang Sun, Wei Wang, <br>
 <i>AAAI</i>, (2021).
