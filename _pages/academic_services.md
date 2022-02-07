@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 * **Conference PC member:**
+  * [ICML2022](https://icml.cc/Conferences/2022) 
   * [ICLR2022](https://iclr.cc/) 
   * [AAAI2022](https://aaai.org/Conferences/AAAI-22/)
   * [AAAI2021](https://aaai.org/Conferences/AAAI-21/)
