@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a Scienist II at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR) Singapore.
+* I am currently a Scienist II at the A\*STAR Centre for Frontier AI Research (CFAR) , Agency for Science, Technology and Research (A\*STAR) Singapore.
 
 * From 2018 to 2021, I was Postdoctoral Fellow at the School of Computer Science, University of New South Wales (UNSW), Australia.
 
@@ -19,6 +19,7 @@ redirect_from:
 
 
 # Recent News
+* I was invited to serve as PC for ICML2022.
 * I was invited to serve as PC for AAAI2022.
 * I have one paper been accepted by EMNLP2021.
 * I was invited to serve as PC for ICLR2022.
