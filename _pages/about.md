@@ -19,6 +19,7 @@ redirect_from:
 
 
 # Recent News
+* I have one paper been accepted by ACL2022.
 * I was invited to serve as PC for ICML2022.
 * I was invited to serve as PC for AAAI2022.
 * I have one paper been accepted by EMNLP2021.
