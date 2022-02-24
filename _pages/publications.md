@@ -13,6 +13,9 @@ author_profile: true
 <i> 40th International Conference on Conceptual Modeling</i>, (2021).
 
 ## Publications
+1. <b>[MDERank: A Masked Document Embedding Rank Approach for Unsupervised Keyphrase Extraction][<a href="https://openreview.net/attachment?id=hVdc3UyyWJJQ&name=pdf" target="_blank">PDF</a>]</b> <br> 
+Linhan Zhang, Qian Chen, Wen Wang, Chong Deng, ShiLiang Zhang, <b> Bing Li </b>, Wei Wang, Xin Cao <br>
+<i>ACL</i>, (2022).
 
 1. <b>[Privacy-Preserving Cross-Environment Human Activity Recognition][<a href="https://pubmed.ncbi.nlm.nih.gov/34818206/" target="_blank">PDF</a>]</b> <br> 
 Le Zhang, Wei Cui, <b>Bing Li*</b>, Zhenghua Chen, Min Wu, Teo Sin Gee <br>
