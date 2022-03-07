@@ -19,15 +19,15 @@ redirect_from:
 
 
 # Recent News
-* I have one paper been accepted by ACL2022.
-* I was invited to serve as PC for ICML2022.
-* I was invited to serve as PC for AAAI2022.
-* I have one paper been accepted by EMNLP2021.
-* I was invited to serve as PC for ICLR2022.
-* I have two papers been accepted by <b>AAAI2021</b> main technical track.
-* I was invited to serve as PC for ICLR2021.
-* I was invited to serve as PC for AAAI2021.
+* I have one paper been accepted by ACL 2022.
+* I was invited to serve as PC for ICML 2022.
+* I was invited to serve as PC for AAAI 2022.
+* I have one paper been accepted by EMNLP 2021.
+* I was invited to serve as PC for ICLR 2022.
+* I have two papers been accepted by <b>AAAI 2021</b> main technical track.
+* I was invited to serve as PC for ICLR 2021.
+* I was invited to serve as PC for AAAI 2021.
 * I was awarded <b>2019 ACM SIGMOD China Doctoral Dissertation Award</b> (Only two awardees China-wide)
-* I was invited to serve as PC for [ICML2020](https://icml.cc/Conferences/2020/).
-* I have four papers been accepted by <b>AAAI2020</b> main technical track.
-* I was invited to serve as PC for [AAAI2020](https://aaai.org/Conferences/AAAI-20/).
+* I was invited to serve as PC for [ICML 2020](https://icml.cc/Conferences/2020/).
+* I have four papers been accepted by <b>AAAI 2020</b> main technical track.
+* I was invited to serve as PC for [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
