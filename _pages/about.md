@@ -19,6 +19,7 @@ redirect_from:
 
 
 # Recent News
+* I was invited to serve as PC for NeurIPS 2022.
 * I have one paper been accepted by ACL 2022.
 * I was invited to serve as PC for ICML 2022.
 * I was invited to serve as PC for AAAI 2022.
