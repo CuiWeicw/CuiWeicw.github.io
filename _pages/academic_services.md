@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 * **Conference PC member:**
+  * [NeurIPS2022](https://neurips.cc/Conferences/2022/) 
   * [ICML2022](https://icml.cc/Conferences/2022) 
   * [ICLR2022](https://iclr.cc/) 
   * [AAAI2022](https://aaai.org/Conferences/AAAI-22/)
