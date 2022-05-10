@@ -11,7 +11,7 @@ author_profile: true
   * [AAAI'20, 21, 22](https://aaai.org/Conferences/AAAI-22/)
   
 * **Journal Invited Reviewer:**
-  * IEEE Transactions on Knowledge and Data
+  * IEEE Transactions on Knowledge and Data Engineering
   * IEEE Transactions on Pattern Analysis and Machine Intelligence
   * World Wide Web Journal
   * Information Fusion
