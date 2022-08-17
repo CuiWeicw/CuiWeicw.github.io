@@ -19,6 +19,8 @@ redirect_from:
 
 
 # Recent News
+* I have one paper been accepted by COLING 2022.
+* I was invited to serve as PC for ICLR 2023.
 * I was invited to serve as PC for NeurIPS 2022.
 * I have one paper been accepted by ACL 2022.
 * I was invited to serve as PC for ICML 2022.
@@ -28,7 +30,4 @@ redirect_from:
 * I have two papers been accepted by <b>AAAI 2021</b> main technical track.
 * I was invited to serve as PC for ICLR 2021.
 * I was invited to serve as PC for AAAI 2021.
-* I was awarded <b>2019 ACM SIGMOD China Doctoral Dissertation Award</b> (Only two awardees China-wide)
-* I was invited to serve as PC for [ICML 2020](https://icml.cc/Conferences/2020/).
-* I have four papers been accepted by <b>AAAI 2020</b> main technical track.
-* I was invited to serve as PC for [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
+
