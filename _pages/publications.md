@@ -13,6 +13,10 @@ author_profile: true
 <i> 40th International Conference on Conceptual Modeling</i>, (2021).
 
 ## Publications
+1. <b>[Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion][<a href="" target="_blank">PDF</a>]</b> <br> 
+Chen Chen, Yufei Wang, <b>Bing Li</b> and Kwok-Yan Lam<br>
+<i>COLING</i>, (2022).
+
 1. <b>[MDERank: A Masked Document Embedding Rank Approach for Unsupervised Keyphrase Extraction][<a href="https://openreview.net/attachment?id=hVdc3UyyWJJQ&name=pdf" target="_blank">PDF</a>]</b> <br> 
 Linhan Zhang, Qian Chen, Wen Wang, Chong Deng, ShiLiang Zhang, <b>Bing Li</b>, Wei Wang, Xin Cao <br>
 <i>ACL</i>, (2022).
