@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Dr. Bing Li"
+locale                   : "sg-SG"
+title                    : "Dr. Cui Wei"
 title_separator          : "-"
-name                     : &name "Dr. Bing Li"
-description              : &description "Scienist II at IHPC, A*Star, Singapore"
-url                      : https://windofshadow.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr. Cui Wei"
+description              : &description "Scienist at I2R, A*Star, Singapore"
+url                      : https://cuiweicw.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "windofshadow.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bing Li"
-  avatar           : "photo-middle.jpg"
-  bio              : "Scienist II at IHPC, A*Star"
+  name             : "Cui Weu"
+  avatar           : "profile.png"
+  bio              : "Scienist at I2R, A*Star"
   location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=fLbZnrgAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=3yL9qTsAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Bing_Li135" #https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # "https://www.researchgate.net/profile/Bing_Li135" #https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
