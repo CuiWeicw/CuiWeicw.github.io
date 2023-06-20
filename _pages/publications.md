@@ -9,80 +9,62 @@ author_profile: true
 
 
 
-## Publications
-1. <b>[Semi-Supervised Deep Adversarial Forest for Cross-Environment Localization][<a href="" target="_blank">PDF</a>]</b> <br> 
-<b>Cui Wei</b>, Zhang Le, and Li Bing
+## Selected Publications
+1. <b>[Semi-Supervised Deep Adversarial Forest for Cross-Environment Localization](https://ieeexplore.ieee.org/document/9795070)</b> <br> 
+<b>Cui Wei</b>, Zhang Le, and Li Bing <br>
 <i>IEEE Transactions on Vehicular Technology</i>, (2022).
 
-1. <b>[MDERank: A Masked Document Embedding Rank Approach for Unsupervised Keyphrase Extraction][<a href="https://openreview.net/attachment?id=hVdc3UyyWJJQ&name=pdf" target="_blank">PDF</a>]</b> <br> 
-Linhan Zhang, Qian Chen, Wen Wang, Chong Deng, ShiLiang Zhang, <b>Bing Li</b>, Wei Wang, Xin Cao <br>
-<i>ACL</i>, (2022).
+1. <b>[CeHAR: CSI-based Channel-Exchanging Human Activity Recognition](https://ieeexplore.ieee.org/document/9961869)</b> <br> 
+Lu Xiao, Li Yuli, <b>Cui Wei*</b>, Wang Haixia.  <br>
+<i>IEEE Internet of Things Journal</i>, (2022). <b>*Corresponding author</b>
 
-1. <b>[Privacy-Preserving Cross-Environment Human Activity Recognition][<a href="https://pubmed.ncbi.nlm.nih.gov/34818206/" target="_blank">PDF</a>]</b> <br> 
-Le Zhang, Wei Cui, <b>Bing Li*</b>, Zhenghua Chen, Min Wu, Teo Sin Gee <br>
-<i>IEEE Transactions on Cybernetics</i>, (2021).
-
-1. <b>[Sent2Span: Span Detection for PICO Extraction in the Biomedical Text without Span Annotations][<a href="https://arxiv.org/pdf/2109.02254.pdf" target="_blank">PDF</a>]</b> <br> 
-Shifeng Liu, Yifang Sun, <b>Bing Li</b>, Wei Wang, Florence T Bourgeois, Adam G Dunn <br>
-<i>EMNLP</i>, (2021).
-
-1. <b>[Improving the Efficiency and Effectiveness for BERT-based Entity Resolution][<a href="https://github.com/windofshadow/windofshadow.github.io/blob/master/_pages/pdf/BERTer.pdf" target="_blank">PDF</a>]</b> <br> 
-<b>Bing Li</b>, Yukai Miao, Yaoshu Wang, Yifang Sun, Wei Wang, <br>
-<i>AAAI</i>, (2021).
+1. <b>[AirFi: Empowering WiFi-based Passive Human Gesture Recognition to Unseen Environment via Domain Generalization](https://ieeexplore.ieee.org/document/9994050)</b> <br> 
+Wang Dazhuo, Yang Jianfei, <b>Cui Wei</b>, Xie Lihua <br>
+<i>IEEE Transactions on Mobile Computing</i>, (2022)
 
 1. <b>[Two-Stream Convolution Augmented Transformer for Human Activity Recognition][<a href="https://github.com/windofshadow/windofshadow.github.io/blob/master/_pages/pdf/THAT.pdf" target="_blank">PDF</a>][<a href="https://github.com/windofshadow/THAT" target="_blank">Code</a>]</b> <br> 
-<b>Bing Li</b>, Wei Cui, Wei Wang, Le Zhang, Zhenghua Chen, Min Wu,<br>
-<i>AAAI</i>, (2021).
+Bing Li, <b>Wei Cui*</b>, Wei Wang, Le Zhang, Zhenghua Chen, Min Wu,<br>
+<i>AAAI</i>, (2021).  <b>*Corresponding author</b>
 
-1. <b>[GraphER: Token-Centric Entity Resolution with Graph Convolutional Neural Networks][<a href="https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiB.10313.pdf" target="_blank">PDF</a>][<a href="https://github.com/windofshadow/GraphER" target="_blank">Code</a>]</b> <br> 
-<b>Bing Li</b>, Wei Wang, Yifang Sun, Linhan Zhang, Muhammad Asif Ali, Yi Wang,<br>
-<i>AAAI</i>, (2020): 8172-8179.
+1. <b>[Device-free single-user activity recognition using diversified deep ensemble learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494620310048)</b> <br> 
+<b>Wei Cui</b>, Bing Li, Le Zhang, Zhenghua Chen.  <br>
+<i>Applied Soft Computing</i>, (2021).
 
-1. <b>[Recursively Binary Modification Model for Nested Named Entity Recognition](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiB.9947.pdf)</b> <br> 
-<b>Bing Li</b>, Shifeng Liu, Yifang Sun, Wei Wang, Xiang Zhao,<br>
-<i>AAAI</i>, (2020): 8164-8171.
+1. <b>[WiHGR: A Robust WiFi-Based Human Gesture Recognition System via Sparse Recovery and Modified Attention-based BGRU](https://ieeexplore.ieee.org/document/9585296)</b> <br> 
+Meng Wei, Chen Xingchan, <b>Cui Wei*</b> <br>
+<i>IEEE Internet of Things Journal</i>, (2021). <b>*Corresponding author</b>
 
-1. <b>[Fine-Grained Named Entity Typing over Distantly Supervised Data Based on Refined Representations](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-AliM.2531.pdf)</b> <br> 
-Muhammad Asif Ali, Yifang Sun, <b>Bing Li</b>, Wei Wang,<br>
-<i>AAAI</i>, (2020): 7391-7398.
+1. <b>[Feature selection and domain adaptation for cross-machine product quality prediction](https://link.springer.com/article/10.1007/s10845-021-01875-z)</b> <br> 
+Wang Yu, <b>Cui Wei*</b>, Vuong N Khue <br>
+<i>Journal of Intelligent Manufacturing</i>, (2021). <b>*Corresponding author</b>
 
-1. <b>[HAMNER: Headword Amplified Multi-Span Distantly Supervised Method for Domain Specific Named Entity Recognition](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuS.6346.pdf)</b> <br> 
-Shifeng Liu, Yifang Sun, <b>Bing Li</b>, Wei Wang, Xiang Zhao,<br>
-<i>AAAI</i>, (2020): 8401-8408.
+1. <b>[Privacy-Preserving Cross-Environment Human Activity Recognition](https://ieeexplore.ieee.org/document/9626548)</b> <br> 
+Le Zhang, <b>Wei Cui</b>, Bing Li, Zhenghua Chen, Min Wu, Teo Sin Gee <br>
+<i>IEEE Transactions on Cybernetics</i>, (2021).
 
 1. <b>[WiFi-Based Indoor Robot Positioning Using Deep Fuzzy Forests](https://ieeexplore.ieee.org/abstract/document/9060874/)</b> <br> 
-Le Zhang, Zhenghua Chen, Wei Cui, <b>Bing Li</b>, Cen Chen, Zhiguang Cao, Kaizhou Gao,<br>
-<i>IEEE Internet of Things Journal</i>, 2020
+Le Zhang, Zhenghua Chen, <b>Wei Cui*</b>, Bing Li, Cen Chen, Zhiguang Cao, Kaizhou Gao,<br>
+<i>IEEE Internet of Things Journal</i>, (2020). <b>*Corresponding author</b>
 
 1. <b>[Robust mobile location estimation in NLOS environment using GMM, IMM, and EKF](https://ieeexplore.ieee.org/abstract/document/8463499/)</b> <br> 
 Wei Cui, <b>Bing Li</b>, Le Zhang, Wei Meng,<br>
 <i>IEEE Systems Journal</i>, 13, no. 3 (2018): 3490-3500
 
-1. <b>[An Adaptive Hierarchical Compositional Model for Phrase Embedding.][<a href="https://www.ijcai.org/Proceedings/2018/0576.pdf" target="_blank">PDF</a>][<a href="https://github.com/windofshadow/phrase2vec" target="_blank">Code</a>]</b> <br> 
-<b>Bing Li</b>, Xiaochun Yang, Bin Wang, Wei Wang, Wei Cui, Xianchao Zhang,<br>
-<i>IJCAI</i>, (2018): 4144-4151
-
-1. <b>[Robust mobile location estimation in NLOS environment using GMM, IMM, and EKF](https://ieeexplore.ieee.org/abstract/document/8347121/)</b> <br> 
-Mengyu Li, Manfred Lenzen, Felix Keck, Bonnie McBain, Olivier Rey-Lescure, <b>Bing Li</b>, Chaoyang Jiang,<br>
-<i>IEEE Transactions on Smart Grid</i>, 10, no. 4 (2018): 3525-3534
-
-1. <b>[An efficient method for high quality and cohesive topical phrase mining](https://ieeexplore.ieee.org/abstract/document/8332520/)</b> <br> 
-<b>Bing Li</b>, Xiaochun Yang, Rui Zhou, Bin Wang, Chengfei Liu, Yanchun Zhang,<br>
-<i>IEEE Transactions on Knowledge and Data Engineering</i>, 31, no. 1 (2018): 120-137
+1. <b>[WiFi CSI based passive human activity recognition using attention based BLSTM](https://ieeexplore.ieee.org/document/8514811)</b> <br> 
+Chen Zhenghua, Zhang Le, Jiang Caoyang, Cao Zhiguang,  <b>Cui Wei</b>.<br>
+<i>IEEE Transactions on Mobile Computing</i>, (2018)
 
 1. <b>[Received signal strength based indoor positioning using a random vector functional link network](https://ieeexplore.ieee.org/abstract/document/8063349/)</b> <br> 
 Wei Cui, Le Zhang, <b>Bing Li</b>, Jing Guo, Wei Meng, Haixia Wang, Lihua Xie,<br>
 <i>IEEE Transactions on Industrial Informatics</i>, 14, no. 5 (2017): 1846-1855
 
-1. <b>[Efficiently mining high quality phrases from texts](https://ieeexplore.ieee.org/abstract/document/8063349/)</b> <br> 
-<b>Bing Li</b>, Xiaochun Yang, Bin Wang, Wei Cui,<br>
-<i>AAAI</i>, (2017)
-
 1. <b>[Dynamic multidimensional scaling algorithm for 3-D mobile localization](https://ieeexplore.ieee.org/abstract/document/7588084/)</b> <br> 
-Wei Cui, Chengdong Wu, Wei Meng, <b>Bing Li</b>, Yunzhou Zhang, Lihua Xie,<br>
+<b>Wei Cui</b>, Chengdong Wu, Wei Meng, Bing Li, Yunzhou Zhang, Lihua Xie,<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 65, no. 12 (2016): 2853-2865
 
-1. <b>[Citpm: A cluster-based iterative topical phrase mining framework](https://link.springer.com/chapter/10.1007/978-3-319-32025-0_13)</b> <br> 
-<b>Bing Li</b>, Bin Wang, Rui Zhou, Xiaochun Yang, Chengfei Liu,<br>
-<i>DASFAA</i>, (2016): 197-213
+
+
+
+
+
 
