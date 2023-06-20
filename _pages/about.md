@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a Scienist II at the A\*STAR Centre for Frontier AI Research (CFAR) , Agency for Science, Technology and Research (A\*STAR) Singapore.
+* I am currently a Research Scienist at the Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A\*STAR) Singapore.
 
-* From 2018 to 2021, I was Postdoctoral Fellow at the School of Computer Science, University of New South Wales (UNSW), Australia.
+* From 2017 to 2019, I was an assistant professor at Shandong University of Science and Technology, China.
 
-* I obtained my Ph.D. Degree from Northeastern University, China at 2018 under the supervision of Prof. Xiaochun Yang. From 2017 to 2018, I was a joint-training Ph.D. student of UNSW. 
+* I obtained my Ph.D. Degree from Northeastern University, China at 2017. From 2017 to 2018, I was a joint-training Ph.D. student at Nanyang Technological University (NTU) under the supervision of Prof. Lihua Xie. 
 
-* My research interests are DB+AI, Text Mining, NLP, and related applications.
+* My research interests are AI-enabled IoT, Sensory data analysis, Smart cities, and related applications.
 
 
-
+/* ==========================================================================
 # Recent News
 * I have one paper been accepted by COLING 2022.
 * I was invited to serve as PC for ICLR 2023.
@@ -30,4 +30,4 @@ redirect_from:
 * I have two papers been accepted by <b>AAAI 2021</b> main technical track.
 * I was invited to serve as PC for ICLR 2021.
 * I was invited to serve as PC for AAAI 2021.
-
+========================================================================== */
