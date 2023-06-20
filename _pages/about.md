@@ -17,17 +17,7 @@ redirect_from:
 * My research interests are AI-enabled IoT, Sensory data analysis, Smart cities, and related applications.
 
 
-/* ==========================================================================
+
 # Recent News
-* I have one paper been accepted by COLING 2022.
-* I was invited to serve as PC for ICLR 2023.
-* I was invited to serve as PC for NeurIPS 2022.
-* I have one paper been accepted by ACL 2022.
-* I was invited to serve as PC for ICML 2022.
-* I was invited to serve as PC for AAAI 2022.
-* I have one paper been accepted by EMNLP 2021.
-* I was invited to serve as PC for ICLR 2022.
-* I have two papers been accepted by <b>AAAI 2021</b> main technical track.
-* I was invited to serve as PC for ICLR 2021.
-* I was invited to serve as PC for AAAI 2021.
-========================================================================== */
+* I have one paper been accepted by IEEE TVT.
+
