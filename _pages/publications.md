@@ -47,7 +47,7 @@ Le Zhang, Zhenghua Chen, <b>Wei Cui*</b>, Bing Li, Cen Chen, Zhiguang Cao, Kaizh
 <i>IEEE Internet of Things Journal</i>, (2020). <b>*Corresponding author</b>
 
 1. <b>[Robust mobile location estimation in NLOS environment using GMM, IMM, and EKF](https://ieeexplore.ieee.org/abstract/document/8463499/)</b> <br> 
-Wei Cui, <b>Bing Li</b>, Le Zhang, Wei Meng,<br>
+<b>Wei Cui</b>, Bing Li, Le Zhang, Wei Meng,<br>
 <i>IEEE Systems Journal</i>, 13, no. 3 (2018): 3490-3500
 
 1. <b>[WiFi CSI based passive human activity recognition using attention based BLSTM](https://ieeexplore.ieee.org/document/8514811)</b> <br> 
@@ -55,7 +55,7 @@ Chen Zhenghua, Zhang Le, Jiang Caoyang, Cao Zhiguang,  <b>Cui Wei</b>.<br>
 <i>IEEE Transactions on Mobile Computing</i>, (2018)
 
 1. <b>[Received signal strength based indoor positioning using a random vector functional link network](https://ieeexplore.ieee.org/abstract/document/8063349/)</b> <br> 
-Wei Cui, Le Zhang, <b>Bing Li</b>, Jing Guo, Wei Meng, Haixia Wang, Lihua Xie,<br>
+<b>Wei Cui</b>, Le Zhang, Bing Li, Jing Guo, Wei Meng, Haixia Wang, Lihua Xie,<br>
 <i>IEEE Transactions on Industrial Informatics</i>, 14, no. 5 (2017): 1846-1855
 
 1. <b>[Dynamic multidimensional scaling algorithm for 3-D mobile localization](https://ieeexplore.ieee.org/abstract/document/7588084/)</b> <br> 
