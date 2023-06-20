@@ -16,6 +16,16 @@ redirect_from:
 
 * My research interests are AI-enabled IoT, Sensory data analysis, Smart cities, and related applications.
 
+# Openings
+We are looking for exchange PhD students under Chinese CSC program.
+
+If you are interested in these opportunities, please drop me an email with your CV.
+
+# Contact
+Institute for Infocomm Research, A*STAR
+1 Fusionopolis Way, Connexis, Singapore 138632
+
+Email: cui_wei@i2r.a-star.edu.sg
 
 
 # Recent News
